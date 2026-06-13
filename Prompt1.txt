@@ -1,0 +1,20 @@
+Act as a professional UGC ad copywriter.
+
+Create 5 UGC-style advertisement scripts for King Tech Computer Repair Shop in Madurai.
+
+Requirements:
+- Platform: Instagram Reels
+- Length: 30 seconds
+- Tone: Authentic and conversational
+- Include:
+  - Hook
+  - Problem
+  - Solution
+  - Call To Action
+
+Target Audience:
+- Students
+- Office Workers
+- Gamers
+
+Make each script unique and conversion-focused.
